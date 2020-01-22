@@ -1,6 +1,7 @@
 # React-Shop-Exam
 
 Setup
+
 Clone this repo to your desktop. After that go to it's root directory and run
 
 \$ npm install
