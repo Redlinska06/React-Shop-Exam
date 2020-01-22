@@ -1,0 +1,19 @@
+.notFound {
+  font-size: 120px;
+  width: 240px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 120px;
+}
+
+.description {
+  font-size: 30px;
+  margin-top: 70px;
+  margin-left: 40px;
+}
+
+.goHome {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 55px;
+}
